@@ -7,7 +7,7 @@
  
 </p>
  <p align="center">
-  <img align="left" src "https://animesher.com/orig/1/199/1999/19997/animesher.com_killua-gif-killua-zoldyck-1999741.gif">
+  <img align="left" src"https://animesher.com/orig/1/199/1999/19997/animesher.com_killua-gif-killua-zoldyck-1999741.gif">
  </p> 
 
 
