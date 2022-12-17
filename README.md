@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/c9/79/bb/c979bbcfa5645684be469ce8a4f34267.gif)
+![MasterHead](https://pa1.narvii.com/6066/3bf8e9bff31793aa60475ff1b79ff2885e1bedfa_hq.gif)
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="didar-dev" /> </p>
