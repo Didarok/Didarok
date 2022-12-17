@@ -6,11 +6,10 @@
  
  
 </p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
+ <p align="center">
+  <img align="left" src ="https://i.gifer.com/S8F5.mp4">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
-</p> -->
+</p> 
 
 
 <!--
