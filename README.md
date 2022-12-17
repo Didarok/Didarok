@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/38/5d/31/385d3110c91606ffbaf73be636ce910d.gif)
+![MasterHead](https://i.pinimg.com/originals/c9/79/bb/c979bbcfa5645684be469ce8a4f34267.gif)
 
 <p align="center">
   <img height="50%" width="45%" src ="https://github-readme-stats.vercel.app/api?username=didar-dev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
