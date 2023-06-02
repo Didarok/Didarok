@@ -1,12 +1,3 @@
-<div align="center" display="flex" flex-direction="row" justify-content="space-between" align-items="center" width="100%">
- <img align="center"  width="100%" src="https://i.imgur.com/v3xc5fQ.png" alt="DidarDotdev"   />
- <div>
- <h3>Full Stack Developer</h3>
-<a href="https://twitter.com/didardotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DidarDotdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/didar-abdulkhaliq-65022221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DidarDotdev" height="30" width="40" /></a>
-<a href="https://fb.com/DidarDotdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="DidarDotdev" height="30" width="40" /></a>
-</div>
- </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=didar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="didar-dev" /> </p>
 <p align="center">
