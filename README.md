@@ -1,1 +1,1 @@
-👋 Hello, World! I'm the personification of 'git commit -m happiness' 😄. When I'm not pushing code, I'm probably pushing my luck in the quest for the perfect cup of coffee. ☕️ My code may not always be bug-free, but it's definitely judgment-free! 🐛 Remember, in the world of coding, there are only 10 types of people: those who understand binary and those who don't. 😂 #CodeWithASmile #NoBugsGiven
+Picking a 1GB VPS over AWS because I'm all about that Ubuntu love and self-hosting vibe!
